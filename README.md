@@ -1,2 +1,19 @@
 # tumbilical
-Tumblr API for Clojure
+
+Tumblr API for Clojure.  Work in progress.
+
+I had trouble getting other API versions to work.  I'll get this one
+to the point where it suits my purposes.  Then hopefully fill out the
+rest of the API.  Working examples, for now, in `core.clj`.
+
+## License
+
+Copyright © 2015 John Jacobsen. MIT License (see LICENSE).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
